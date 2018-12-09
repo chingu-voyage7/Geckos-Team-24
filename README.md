@@ -39,7 +39,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 you can compile the project using the following code in your command line:
 
-##Steps to use this Repo
+## Steps to use this Repo
 Step1: Clone the Repo
 Step2: Go to the folder and execute
 npm run build
