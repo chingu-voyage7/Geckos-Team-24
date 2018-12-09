@@ -37,6 +37,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+you can compile the project using the following code in your command line:
+
+##Steps to use this Repo
+Step1: Clone the Repo
+Step2: Go to the folder and execute
+npm run build
+
+Note: You need to have React and NPM installed in your system with -g
+
+## Adding The Extension to Your Chrome
+In order to check your new extension, you will have to install it in Chrome. You can do the following to install it:
+
+In Chrome, open the extension list by opening a new tab and running the following URL:
+
+chrome://extensions/
+Press the Load unpacked extension… button. 
+Browse to the build folder and press the OK button.
+
+If everything goes right, you will have your extension installed in Chrome.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
